@@ -34,11 +34,7 @@ New tasks are added as `task-N-short-name/` folders.
 
 This list will be updated as more tasks are added.
 
-## How to Use
 
-1. Clone the repository.
-2. Open the folder of the task you want to run.
-3. Follow the setup and usage steps in that task's README.
 
 ## Author
 
